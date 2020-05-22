@@ -1,0 +1,13 @@
+
+# comment *.txt
+
+tempfile.txt
+.DS_Store
+*.zip
+*.gz
+log/*.log
+log/*.log[0-9]
+California_Culinary_Visit_California_files/*.jpg
+California_Culinary_Visit_California_files/*.png
+California_Culinary_Visit_California_files/*.mp4
+!California_Culinary_Visit_California_files/vid_*.mp4
